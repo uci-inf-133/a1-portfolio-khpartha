@@ -40,7 +40,7 @@ However this is not a concern because these are system font fallbacks that provi
 
 5. What online resources did you consult when completing this assignment?
 
-I have this already on my resume and i created this long time ago. If i am not wrong i used chatGPT to asjust some css style.
+I have this already on my resume and i created this long time ago. If i am not wrong i used chatGPT to asjust some css style and learn from youtube.
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
