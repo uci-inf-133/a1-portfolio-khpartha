@@ -36,7 +36,7 @@ Readme document for *Partha khundrakpam*, *pkhundra@uci.edu*
 However this is not a concern because these are system font fallbacks that provide native OS fonts for better performance and user experience.
 4. How long, in hours, did it take you to complete this assignment?
 
-2 days
+2 - 3 days.
 
 5. What online resources did you consult when completing this assignment?
 
